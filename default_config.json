@@ -1,5 +1,6 @@
 {
   "port": 7000,
+  "chunkSize": "524288",
   "peers": {
     "local": [],
     "remote": []
