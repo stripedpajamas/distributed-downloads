@@ -1,0 +1,7 @@
+{
+  "port": 7000,
+  "peers": {
+    "local": [],
+    "remote": []
+  }
+}
