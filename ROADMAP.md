@@ -7,6 +7,7 @@
 
 ## Version 0.1.0
   - Basic node logic defined and implemented
+    - Check available memory capacity of device 
     - Concurrently serve and download chunks of a file
     - Stitch together all downloaded chunks of file into single complete file
     - Request desired chunks from local peers before remote peers
